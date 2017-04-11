@@ -13,7 +13,7 @@ public class DeWereldTijdenApp extends Applet {
     private TextField tekstvak;
     private String fout;
     private boolean geklikt;
-
+//
     public void init() {
         tekstvak = new TextField("", 20);
         Label label = new Label("Voer uw uur in");
